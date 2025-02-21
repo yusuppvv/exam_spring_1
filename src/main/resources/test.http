@@ -1,0 +1,8 @@
+###
+POST localhost:8088/api/register
+Content-Type: application/json
+
+{
+  "email": "ulugbekovcc@gmail.com",
+  "password": "ehprL9XBCyAXBnW"
+}
